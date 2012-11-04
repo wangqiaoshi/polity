@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit(); define('APP_DEBUG',TRUE); require 'ThinkPHP\ThinkPHP.php'; ?>
